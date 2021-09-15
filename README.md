@@ -1,6 +1,6 @@
 ## Hi there, I'm dreiekk 👋
 
-... a nocturnal, tech enthusiastic, <s>spaghetti</s> coder who thinks no dream is big enough.
+... a nocturnal, tech enthusiastic, <s>spaghetti</s> coder with an affinity for triangles.
 
 ![Visitor count](https://visitor-badge.glitch.me/badge?page_id=dreiekk.dreiekk.visitor-badge)
 
