@@ -1,0 +1,1 @@
+Icons from https://github.com/simple-icons/simple-icons
