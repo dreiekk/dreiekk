@@ -42,6 +42,12 @@
 - [📅 CalcDAV](https://github.com/dreiekk/calcdav/) - Simple tool to sum up project hours from a caldav calendar
 
 
+### Currently...
+
+* ✨ learning more about Laravel and it's components
+* ✂️ working on "Snipp" - a feature-rich but easy-to-use markdown snippet notebook for developers and sysadmins
+* 📕 reading "Essentialism: The Disciplined Pursuit of Less" (Greg Mckeown)
+
 ### Metrics
 
 ![Metrics](https://metrics.lecoq.io/dreiekk?template=classic&base.repositories=0&languages=1&stackoverflow=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stackoverflow.user=9973021&stackoverflow.sections=none&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Europe%2FBerlin)
