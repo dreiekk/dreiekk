@@ -45,7 +45,7 @@
 ### Currently...
 
 * ✨ learning more about Laravel and it's components
-* ✂️ working on "Snipp" - a feature-rich but easy-to-use markdown snippet notebook for developers and sysadmins
+* ✂️ working on "Snipp" - a feature-rich but easy-to-use snippet notebook for devs and sysadmins
 * 📕 reading "Essentialism: The Disciplined Pursuit of Less" (Greg Mckeown)
 
 ### Metrics
