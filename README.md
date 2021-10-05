@@ -44,7 +44,7 @@
 
 ### Currently...
 
-* ✨ working on a front-end for [Spark](https://github.com/skillor/Spark)
+* ✨ working on a [VueJS](https://v3.vuejs.org/) front-end for [Spark](https://github.com/skillor/Spark)
 * ✂️ working on "Snipp" - a feature-rich but easy-to-use snippet notebook for devs and sysadmins
 * 📕 reading "Essentialism: The Disciplined Pursuit of Less" (Greg Mckeown)
 
