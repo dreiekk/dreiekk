@@ -39,7 +39,7 @@
 ### Side projects are the best, check out some of mine
 <!-- - [✂ Snipp](https://snipp.dreiekk.de/) - (not public yet) Snippet Manager for developers and alike -->
 - [👓 OVRSmartBridge](https://github.com/ovrsmartbridge/) - Read sensors from OpenVR and display messages in VR with [Home Assistant](https://www.home-assistant.io/)
-- [👓 OpenVR-Autostarter](https://github.com/dreiekk/OpenVR-Autostarter) - Launch and stop programs with your VR runtime
+- [⬆️ OpenVR-Autostarter](https://github.com/dreiekk/OpenVR-Autostarter) - Launch and stop programs with your VR runtime
 - [📅 CalcDAV](https://github.com/dreiekk/calcdav/) - Simple tool to sum up project hours from a caldav calendar
 
 
