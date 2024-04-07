@@ -1,8 +1,8 @@
-## Hi there, I'm dreiekk 👋
+## Hi there, I'm Rikk 👋
 
 ... a nocturnal, tech enthusiastic, <s>spaghetti</s> coder with an affinity for triangles.
 
-![Visitor count](https://visitor-badge.glitch.me/badge?page_id=dreiekk.dreiekk.visitor-badge)
+![](https://komarev.com/ghpvc/?username=dreiekk)
 
 
 ### Languages and Tools
